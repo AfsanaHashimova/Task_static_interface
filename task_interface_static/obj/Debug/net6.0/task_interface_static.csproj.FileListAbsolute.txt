@@ -1,0 +1,15 @@
+C:\Users\EFSO\Desktop\task_interface_static\task_interface_static\obj\Debug\net6.0\task_interface_static.csproj.AssemblyReference.cache
+C:\Users\EFSO\Desktop\task_interface_static\task_interface_static\obj\Debug\net6.0\task_interface_static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EFSO\Desktop\task_interface_static\task_interface_static\obj\Debug\net6.0\task_interface_static.AssemblyInfoInputs.cache
+C:\Users\EFSO\Desktop\task_interface_static\task_interface_static\obj\Debug\net6.0\task_interface_static.AssemblyInfo.cs
+C:\Users\EFSO\Desktop\task_interface_static\task_interface_static\obj\Debug\net6.0\task_interface_static.csproj.CoreCompileInputs.cache
+C:\Users\EFSO\Desktop\task_interface_static\task_interface_static\bin\Debug\net6.0\task_interface_static.exe
+C:\Users\EFSO\Desktop\task_interface_static\task_interface_static\bin\Debug\net6.0\task_interface_static.deps.json
+C:\Users\EFSO\Desktop\task_interface_static\task_interface_static\bin\Debug\net6.0\task_interface_static.runtimeconfig.json
+C:\Users\EFSO\Desktop\task_interface_static\task_interface_static\bin\Debug\net6.0\task_interface_static.dll
+C:\Users\EFSO\Desktop\task_interface_static\task_interface_static\bin\Debug\net6.0\task_interface_static.pdb
+C:\Users\EFSO\Desktop\task_interface_static\task_interface_static\obj\Debug\net6.0\task_interface_static.dll
+C:\Users\EFSO\Desktop\task_interface_static\task_interface_static\obj\Debug\net6.0\refint\task_interface_static.dll
+C:\Users\EFSO\Desktop\task_interface_static\task_interface_static\obj\Debug\net6.0\task_interface_static.pdb
+C:\Users\EFSO\Desktop\task_interface_static\task_interface_static\obj\Debug\net6.0\task_interface_static.genruntimeconfig.cache
+C:\Users\EFSO\Desktop\task_interface_static\task_interface_static\obj\Debug\net6.0\ref\task_interface_static.dll
